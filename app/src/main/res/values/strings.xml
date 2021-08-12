@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OMDB</string>
+
+    <!--created by rohit-->
+    <string name="movie_list_toolbar">Search Result</string>
+    <string name="search_hint">Search for your favourite movie...</string>
+    <string name="Search_button">Search</string>
+    <string name="no_data">No Data Found</string>
+
+</resources>
